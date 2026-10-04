@@ -20,16 +20,16 @@ Controls: arrows/WASD to move, P to pause/resume, Enter to confirm.
 C enables reviewer cheats: I invincibility, F freeze ghosts, L extra life,
 K skip level, +/- player speed, R reset effects.
 
-Built from source commit `eedac5a1cab49d9c1d372a38b16022aba4f7f921`
+Built from source commit `71d7583`
 on Ubuntu 22.04 with Python 3.10 and PyInstaller.
-Lint, strict type checking, ten behavioral tests, and packaged headless
+Lint, strict type checking, twelve behavioral tests, and packaged headless
 startup passed. A full graphical playthrough remains unverified.
 
 Source and packaging script:
 https://github.com/migdady5/pacman-linux-42
 
 Build evidence:
-https://github.com/migdady5/pacman-linux-42/actions/runs/37222044709
+https://github.com/migdady5/pacman-linux-42/actions/runs/37238984871
 
 For itch.io: create a downloadable game, choose No payments, upload
 `pacman-linux-x86_64.zip`, select Linux, and make the page unlisted in
